@@ -1,0 +1,2 @@
+insert into aircraft values (3, 'SP-FYZ', 'Cessna', '175C', '1964', '17557099', '3A17 Rev. 46', '2893:23', NULL, 'Continental GO-300-E', '12634-1-C', '1964', 'E-298', '707:23', '707:23', 'McCauley 2A31C21-DE/84S', '697157', '1973', 'P-919', '461:47', '461:47', 0, 0, 0, 0, 0, NULL, NULL);
+

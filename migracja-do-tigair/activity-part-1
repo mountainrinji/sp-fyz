@@ -1,0 +1,130 @@
+insert into activity values (2001,'Przegląd 25 FH','Przegląd 25 FH','MAINT','A','I', NULL, 25,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2002,'Przegląd 100 FH','Przegląd 100 FH','MAINT','A','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2003,'Przegląd roczny','Przegląd roczny','MAINT','A','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2004,'Przegląd specjalny EM 600FH/12 miesięcy','Przegląd specjalny EM 600FH/12 miesięcy','MAINT','A','I', NULL, 600,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2005,'Przegląd specjalny 500 FH','Przegląd specjalny 500 FH','MAINT','A','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2006,'Przegląd 1000FH','Przegląd 1000FH','MAINT','A','I', NULL, 1000,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2007,'Przegląd 1000FH/3lata – siłownik trymera','Przegląd 1000FH/3lata – siłownik trymera','MAINT','A','R', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2008,'CAP 57-50-01','CAP 57-50-01','MAINT','A','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2009,'CAP 27-10-00','CAP 27-10-00','MAINT','A','I', NULL, 1000,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2010,'CAP 28-30-01','CAP 28-30-01','MAINT','A','I', NULL, 1000,24, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2011,'CAP 79-10-00','CAP 79-10-00','MAINT','A','I', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2012,'CAP 28-40-01','CAP 28-40-01','MAINT','A','I', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2013,'CAP 29-10-01','CAP 29-10-01','MAINT','A','I', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2014,'CAP 55-10-03','CAP 55-10-03','MAINT','A','I', NULL, 1500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2015,'CAP 57-10-00','CAP 57-10-00','MAINT','A','I', NULL, 3000,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2016,'CAP 28-20-01','CAP 28-20-01','MAINT','A','I', NULL, NULL,24, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2017,'CPCP 12 miesięcy','CPCP 12 miesięcy','MAINT','A','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2018,'CPCP 24 miesiące','CPCP 24 miesiące','MAINT','A','I', NULL, NULL,24, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2019,'CPCP 36 miesiące','CPCP 36 miesiące','MAINT','A','I', NULL, NULL,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2020,'CPCP 48 miesiące','CPCP 48 miesiące','MAINT','A','I', NULL, NULL,48, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2021,'CPCP 60 miesiące','CPCP 60 miesiące','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2022,'ELT 3 miesiące','ELT 3 miesiące','MAINT','A','I', NULL, NULL,3, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2023,'ELT 12 miesięcy','ELT 12 miesięcy','MAINT','A','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+insert into activity values (2025,'SID 55-11-01','SID 55-11-01','MAINT','A','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2026,'SID 57-50-01','SID 57-50-01','MAINT','A','I', NULL, 500,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2027,'SID 27-30-01','SID 27-30-01','MAINT','A','I', NULL, 1000,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2028,'SID 53-12-03','SID 53-12-03','MAINT','A','I', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2029,'SID 32-11-01','SID 32-11-01','MAINT','A','I', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2030,'SID 32-13-03','SID 32-13-03','MAINT','A','I', NULL, 1000,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2031,'SID 53-12-01','SID 53-12-01','MAINT','A','I', NULL, 1000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2032,'SID 57-11-01','SID 57-11-01','MAINT','A','I', NULL, 1000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2033,'SID 57-40-01','SID 57-40-01','MAINT','A','I', NULL, 1000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2034,'SID 71-20-01','SID 71-20-01','MAINT','A','I', NULL, 931,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2035,'SID 55-30-01','SID 55-30-01','MAINT','A','I', NULL, 2000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2036,'SID 53-12-03','SID 53-12-03','MAINT','A','I', NULL, 2000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2037,'SID 55-10-01','SID 55-10-01','MAINT','A','I', NULL, 2000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2038,'SID 71-20-02','SID 71-20-02','MAINT','A','I', NULL, 2500,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2039,'SID 27-20-01','SID 27-20-01','MAINT','A','I', NULL, 3000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2040,'SID 32-20-01','SID 32-20-01','MAINT','A','I', NULL, 3000,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2041,'SID 57-12-01','SID 57-12-01','MAINT','A','I', NULL, NULL,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2042,'SID 57-53-01','SID 57-53-01','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2043,'SID 57-11-04','SID 57-11-04','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2044,'SID 57-11-02','SID 57-11-02','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2045,'SID 53-30-01','SID 53-30-01','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2046,'SID 53-11-01','SID 53-11-01','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2047,'SID 53-47-01','SID 53-47-01','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2048,'SID 32-13-01','SID 32-13-01','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2049,'SID 32-13-02','SID 32-13-02','MAINT','A','I', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2050,'AD 2011-10-09','AD 2011-10-09','MAINT','A','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2051,'AD 2006-0375','AD 2006-0375','MAINT','A','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2052,'AD 76-07-12','AD 76-07-12','MAINT','A','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2053,'SIB CE-10-40R1','SIB CE-10-40R1','MAINT','A','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2054,'SEB 94-8','SEB 94-8','MAINT','A','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2055,'SEB 95-3R1','SEB 95-3R1','MAINT','A','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2056,'SEB 96-2','SEB 96-2','MAINT','A','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2057,'SEB 99-18R1','SEB 99-18R1','MAINT','A','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2058,'SEB 636 (SEB 92-29)','SEB 636 (SEB 92-29)','MAINT','A','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2059,'SB 653','SB 653','MAINT','A','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2060,'Przegląd akumulatora 30 dni','Przegląd akumulatora 30 dni','MAINT','A','I', NULL, 25,1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+
+insert into activity values (2063,'Pasy siedzeniowe','Pasy siedzeniowe','MAINT','A','R', NULL, NULL,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2064,'Gumowe elastyczne przewody paliwowe i olejowe','Gumowe elastyczne przewody paliwowe i olejowe','MAINT','A','R', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2065,'Cięgło przepustnicy i składu mieszanki','Cięgło przepustnicy i składu mieszanki','MAINT','A','R', NULL, 1200,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2066,'Naprawa lub wymiana ograniczników foteli pilota, drugiego pilota i pasażerów','Naprawa lub wymiana ograniczników foteli pilota, drugiego pilota i pasażerów','MAINT','A','R', NULL, NULL,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2067,'Wymiana giętkich przewodów układu ciśnienia statycznego i rurki Pitota','Wymiana giętkich przewodów układu ciśnienia statycznego i rurki Pitota','MAINT','A','R', NULL, NULL,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2068,'Wymiana filtra instalacji próżniowej VACUUM','Wymiana filtra instalacji próżniowej VACUUM','MAINT','A','R', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2069,'Gumowe elastyczne przewody przedziału silnikowego','Gumowe elastyczne przewody przedziału silnikowego','MAINT','A','R', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2070,'Przewody instalacji próżniowej','Przewody instalacji próżniowej','MAINT','A','R', NULL, NULL,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2071,'Gaśnica','Gaśnica','MAINT','A','R', NULL, NULL,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2072,'Kompensacja busoli magnetycznej – przegląd specjalny 1000 FH','Kompensacja busoli magnetycznej – przegląd specjalny 1000 FH','MAINT','A','I', NULL, 1000,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2073,'Ważenie W&B','Ważenie W&B','MAINT','A','I', NULL, NULL,48, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2074,'Poświadczenie ARC','Poświadczenie ARC','MAINT','A','R', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2075,'Ubezpieczenie','Ubezpieczenie','MAINT','A','R', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2076,'Pozwolenie na używanie radiostacji pokładowej','Pozwolenie na używanie radiostacji pokładowej','MAINT','A','R', NULL, NULL,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2077,'Sprzęgło pompy próżniowej','Sprzęgło pompy próżniowej','MAINT','A','R', NULL, NULL,72, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2078,'Bateria ELT','Bateria ELT','MAINT','A','R', NULL, NULL,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+
+
+
+insert into activity values (2083,'CAP 28-30-02','CAP 28-30-02','MAINT','E','I', NULL, NULL, 60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2084,'Przegląd 25 FH','Przegląd 25 FH','MAINT','E','I', NULL, 25,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2085,'Przegląd 100 FH','Przegląd 100 FH','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2086,'Przegląd specjalny 200 FH','Przegląd specjalny 200 FH','MAINT','E','I', NULL, 200,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2087,'Przegląd specjalny 300 FH','Przegląd specjalny 300 FH','MAINT','E','I', NULL, 300,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2088,'Przegląd specjalny 500 FH','Przegląd specjalny 500 FH','MAINT','E','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2089,'Przegląd roczny','Przegląd roczny','MAINT','E','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2090,'MSB94-8D','MSB94-8D','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2091,'SB09-14','SB09-14','MAINT','E','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2092,'SEB09-3(SB08-7, MSA-14)','SEB09-3(SB08-7, MSA-14)','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2093,'SEB99-19','SEB99-19','MAINT','E','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2094,'SEB02-2','SEB02-2','MAINT','E','I', NULL, 100,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2095,'SEB02-3','SEB02-3','MAINT','E','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2096,'SB03-3','SB03-3','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2097,'SB660 (SB653, SB97-15)','SB660 (SB653, SB97-15)','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2098,'SB96-12','SB96-12','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2099,'M90-17','M90-17','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2100,'SB95-2','SB95-2','MAINT','E','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2101,'SB95-3B','SB95-3B','MAINT','E','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2102,'AD 94-05-05 R1','AD 94-05-05 R1','MAINT','E','I', NULL, 1200,144, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+
+insert into activity values (2105,'Pompa Vacuum RAP216CW s/n B28607','Pompa Vacuum RAP216CW s/n B28607','MAINT','E','R', NULL, NULL,72, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2106,'Pompa Vacuum RAP216CW s/n B28607','Pompa Vacuum RAP216CW s/n B28607','MAINT','E','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2107,'Poduszki (lordy) mocowania silnika','Poduszki (lordy) mocowania silnika','MAINT','E','R', NULL, 1200,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2108,'Silnik GO-300-E s/n 12634-1-C','Silnik GO-300-E s/n 12634-1-C','MAINT','E','O', NULL, 1200,144, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2109,'Iskrownik prawy: SLICK 6367 s/n 08071166','Iskrownik prawy: SLICK 6367 s/n 08071166','MAINT','E','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2110,'Iskrownik lewy: SLICK 6367 s/n 08071165','Iskrownik lewy: SLICK 6367 s/n 08071165','MAINT','E','I', NULL, 500,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2111,'Rozrusznik DELCO-REMY 1109884 s/n 5719','Rozrusznik DELCO-REMY 1109884 s/n 5719','MAINT','E','O', NULL, 1200,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2112,'Alternator DOFF 10300FR s/n H073025','Alternator DOFF 10300FR s/n H073025','MAINT','E','I', NULL, 1200,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2113,'Gaźnik MA-4-5 10-4171 s/n L-12-399','Gaźnik MA-4-5 10-4171 s/n L-12-399','MAINT','E','O', NULL, 1200,120, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2114,'Silnikowy filtr powietrza','Silnikowy filtr powietrza','MAINT','E','R', NULL, 300,36, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+
+
+
+insert into activity values (2119,'Przegląd 25 FH','Przegląd 25 FH','MAINT','P','I', NULL, 25,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2120,'Przegląd 100 FH','Przegląd 100 FH','MAINT','P','I', NULL, 100,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2121,'Przegląd roczny','Przegląd roczny','MAINT','P','I', NULL, NULL,12, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+insert into activity values (2122,'SB227B','SB227B','MAINT','P','I', NULL, 1200,NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+
+insert into activity values (2123,'Śmigło: McCauley 2A31C21-DE/84S','Śmigło: McCauley 2A31C21-DE/84S','MAINT','P','O', NULL, 1200,60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+
+/* post actions */
+update activity set deprecated=0 where id > 2000;
+
+
